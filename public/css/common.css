@@ -1,0 +1,36 @@
+.page-nav{
+	font-size:20px;
+	padding:10px;
+	line-height:25px;
+	background-color:#ccc;
+	margin-bottom:5px;
+	width:100%;
+	}
+.nav-post,
+.nav-list,
+.nav-logout,
+.nav-username,
+.nav-register,
+.nav-login{
+	#margin:10 10px;
+	#padding-right:10px;
+}
+.container{
+	padding:0 0 0 2px;
+	width:80%;
+	margin:0 0 0 0;
+}
+/* .box-left{
+	width:200px;
+	height:656px;
+	background-color:#ccc;
+} */
+/*.box-right{
+	position:absolute;
+	left:220px;
+	top:80px;
+	width:100%;
+	height:100%;
+	#background-color:#ff0000;
+}
+*/
