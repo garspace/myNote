@@ -53,3 +53,4 @@ user.find({},function(err,ret){
 	console.log(ret);
 	connection.close();
 })
+//本文件与myNote项目无关
